@@ -1,0 +1,17 @@
+body {
+    background-color: #f1f3f4;
+    margin: 0;
+}
+
+#logo {
+    width: 160px;
+}
+
+.container {
+    background-color: white;
+    width: 900px;
+    margin: 0 auto;
+    padding: 15px;
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.25);
+
+}
